@@ -1,0 +1,1 @@
+document.write('<a rel="nofollow" href="mailto:admin@phimhp.com" title="Liên hệ quảng cáo: 0163 295 3760"><img src="http://3.bp.blogspot.com/-UBkbmbplmCs/T-wrXs_-VOI/AAAAAAAAADg/WK6BXEsxhEM/s1600/Right-Banner_02.gif" alt="Liên hệ quảng cáo" border="0" width="300" height="250" /></a>');
