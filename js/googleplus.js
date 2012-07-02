@@ -1,0 +1,1 @@
+document.write('<div class="googleplus" align="center"><g:plusone href="http://phimhp.com/" count="true"></g:plusone></div>');
