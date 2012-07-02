@@ -1,0 +1,1 @@
+var is_load_adnet_lib = is_load_adnet_lib || 1;if(is_load_adnet_lib == 1) {is_load_adnet_lib = 2;if(typeof(jQuery)=='undefined') {document.write(unescape("%3Cscript src='http://s0.adnet.vn/jquery.min.js' type='text/javascript'%3E%3C/script%3E"));}document.write(unescape("%3Cscript src='http://s0.adnet.vn/js/adnet34.js' type='text/javascript'%3E%3C/script%3E"));}
