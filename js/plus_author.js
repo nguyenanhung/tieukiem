@@ -1,0 +1,1 @@
+document.write('<g:plus href="https://plus.google.com/109212062158703539277" rel="author" width="300" height="69"></g:plus>');
