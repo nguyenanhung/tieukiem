@@ -27,7 +27,7 @@ var cucrehp_mp=0;
 							var Time_expires = 60*60*6*1000;
 								SVIT_ADS_SetCookie('cucrehp_mp_popup_ads','true',Time_expires);
 							var params = 'scrollbars=yes,fullscreen=yesstatus=1,toolbar=1,menubar=1,resizable=1,location=1,directories=1';
-							var vtlai_popup_1 = window.open('http://www.cucre.vn/vn/popup.html?utm_source=phimhp.com&utm_medium=popup&utm_campaign=ht', 'vtlai_popup_1');//popup vtlai()
+							var vtlai_popup_1 = window.open('http://www.cucre.vn/vn/popup.html?utm_source=phimhp.com&utm_medium=popup&utm_campaign=ht', 'vtlai_popup_1');
 							window.focus();
 						}
 					}
