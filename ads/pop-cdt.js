@@ -1,0 +1,1 @@
+document.write('<script type="text/javascript" language="javascript" src="http://media.ichodientuvn.com/webskins/javascripts/popup/sitebacklink.js"></script>');
