@@ -1,0 +1,1 @@
+document.write('<a rel="nofollow" title="Cảnh báo về các website phim giả mạo và độc hại!" target="_blank" href="http://blog.phimhp.com/2012/07/canh-bao-ve-cac-website-doc-hai-va-gia.html">Cảnh báo về các website phim giả mạo và độc hại!</a>');
