@@ -25,6 +25,6 @@ function random_imglink(){
 
   if (ry==0)
      ry=1
-     document.write('<a target="_blank" href='+'"'+imagelinks[ry]+''+'"'+'><img width="300px" height="25-px" src="'+banner[ry]+'" border="0"></a>')
+     document.write('<a target="_blank" href='+'"'+imagelinks[ry]+''+'"'+'><img width="300px" height="250px" src="'+banner[ry]+'" border="0"></a>')
 }
   random_imglink();
