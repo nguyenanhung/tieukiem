@@ -6,13 +6,13 @@
          var adblock = {
                            'adblock1' : {
             					'divIdShow' : 'adVatgia_block_1',
-            					'numAd'	: 3,
+            					'numAd'	: 4,
             					'typeShow'	: 0,
             					'style' : {'width' : 300}
             					}
                ,               'adblock2' : {
             					'divIdShow' : 'adVatgia_block_2',
-            					'numAd'	: 3,
+            					'numAd'	: 4,
             					'typeShow'	: 0,
             					'style' : {'width' : 300}
             					}
