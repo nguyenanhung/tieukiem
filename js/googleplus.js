@@ -1,2 +1,1 @@
-document.write('<div class="googleplus" align="center"><g:plusone href="http://phimhp.com/" count="true"></g:plusone></div>');
-document.write('<fb:like href="http://phimhp.com/" send="true" layout="button_count" width="250" show_faces="true" colorscheme="dark" font="tahoma"></fb:like>');
+document.write('<div class="googleplus" align="center"><g:plusone href="http://phimhp.com/" count="true"></g:plusone><br /><fb:like href="http://phimhp.com/" send="true" layout="button_count" width="250" show_faces="true" colorscheme="dark" font="tahoma"></fb:like></div>');
